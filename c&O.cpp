@@ -26,7 +26,7 @@ using namespace std;
   };
 
   int main () {
-    school student1, student2;
+    school student1, student2; //objects
     student1.getData();
     student2.getData();
 
