@@ -1,0 +1,27 @@
+/home/brian/Desktop/C++/linkedList.cpp:3:7: error: expected nested-name-specifier before ‘namesapcae’
+ using namesapcae std;
+       ^~~~~~~~~~
+/home/brian/Desktop/C++/linkedList.cpp:14:1: error: ‘n’ does not name a type
+ n = new node;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:15:1: error: ‘n’ does not name a type
+ n -> data = 1;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:16:1: error: ‘t’ does not name a type
+ t = n;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:17:1: error: ‘h’ does not name a type
+ h = n;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:19:1: error: ‘n’ does not name a type
+ n = new node;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:20:1: error: ‘n’ does not name a type
+ n -> data = 2;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:21:1: error: ‘t’ does not name a type
+ t -> next = n;
+ ^
+/home/brian/Desktop/C++/linkedList.cpp:22:1: error: ‘t’ does not name a type
+ t = t -> next;
+ ^
